@@ -14,6 +14,8 @@ tags:
 
 ###### This is a Heading h6
 
+![](/static/img/screen-shot-2022-10-24-at-4.35.31-pm.jpg "test")
+
 ## Emphasis
 
 *This text will be italic*\
